@@ -126,6 +126,6 @@ print(max_price_row)
 
 
 # Find the median screen size
-median_screen_size = df['Screen'].median()
-print(f"Median screen size: {median_screen_size}")
+median_screen = df['Screen'].median()
+print(f"Median screen: {median_screen}")
 
